@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phann21
-- 👀 I’m interested in autonomous vehicles, music visualization, software development, electrical design models, and sports.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in autonomous vehicles, software development, electrical design models, and sports.
+- 🌱 I’m currently learning Python, C, C++, and Go.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: prh5154@psu.edu
 
